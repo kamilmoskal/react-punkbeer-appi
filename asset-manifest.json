@@ -1,14 +1,14 @@
 {
-  "main.css": "/punkbeer-appi/static/css/main.c0f0d24d.chunk.css",
-  "main.js": "/punkbeer-appi/static/js/main.db100056.chunk.js",
-  "main.js.map": "/punkbeer-appi/static/js/main.db100056.chunk.js.map",
-  "static/js/1.e7564679.chunk.js": "/punkbeer-appi/static/js/1.e7564679.chunk.js",
-  "static/js/1.e7564679.chunk.js.map": "/punkbeer-appi/static/js/1.e7564679.chunk.js.map",
-  "runtime~main.js": "/punkbeer-appi/static/js/runtime~main.f5c2959b.js",
-  "runtime~main.js.map": "/punkbeer-appi/static/js/runtime~main.f5c2959b.js.map",
-  "static/media/star.png": "/punkbeer-appi/static/media/star.12aaa566.png",
-  "static/css/main.c0f0d24d.chunk.css.map": "/punkbeer-appi/static/css/main.c0f0d24d.chunk.css.map",
-  "index.html": "/punkbeer-appi/index.html",
-  "precache-manifest.c5e2fee6001a4e08eb1a83c9d524b7e8.js": "/punkbeer-appi/precache-manifest.c5e2fee6001a4e08eb1a83c9d524b7e8.js",
-  "service-worker.js": "/punkbeer-appi/service-worker.js"
+  "main.css": "/react-punkbeer-appi/static/css/main.c0f0d24d.chunk.css",
+  "main.js": "/react-punkbeer-appi/static/js/main.508324a0.chunk.js",
+  "main.js.map": "/react-punkbeer-appi/static/js/main.508324a0.chunk.js.map",
+  "static/js/1.e7564679.chunk.js": "/react-punkbeer-appi/static/js/1.e7564679.chunk.js",
+  "static/js/1.e7564679.chunk.js.map": "/react-punkbeer-appi/static/js/1.e7564679.chunk.js.map",
+  "runtime~main.js": "/react-punkbeer-appi/static/js/runtime~main.1848a1aa.js",
+  "runtime~main.js.map": "/react-punkbeer-appi/static/js/runtime~main.1848a1aa.js.map",
+  "static/media/star.png": "/react-punkbeer-appi/static/media/star.12aaa566.png",
+  "static/css/main.c0f0d24d.chunk.css.map": "/react-punkbeer-appi/static/css/main.c0f0d24d.chunk.css.map",
+  "index.html": "/react-punkbeer-appi/index.html",
+  "precache-manifest.c665ae5db876da91e32b6b1bd46627da.js": "/react-punkbeer-appi/precache-manifest.c665ae5db876da91e32b6b1bd46627da.js",
+  "service-worker.js": "/react-punkbeer-appi/service-worker.js"
 }

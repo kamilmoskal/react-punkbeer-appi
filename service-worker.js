@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/punkbeer-appi/precache-manifest.c5e2fee6001a4e08eb1a83c9d524b7e8.js"
+  "/react-punkbeer-appi/precache-manifest.c665ae5db876da91e32b6b1bd46627da.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/punkbeer-appi/index.html", {
+workbox.routing.registerNavigationRoute("/react-punkbeer-appi/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
